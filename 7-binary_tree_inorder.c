@@ -5,7 +5,7 @@
  *
  * @tree: Pointer to a tree.
  *
- * @func: Is a function pointer to call for each node.
+ * @func: Is a function pointer to call for each node
  *
  * Return: Void
  */
