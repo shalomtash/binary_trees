@@ -3,9 +3,9 @@
 /**
  * binary_tree_node - creates a binary tree node
  *
- * @parent: pointer to the parent node
+ * @parent: pointer to the parent node.
  *
- * @value: value assigned to the new node
+ * @value: value assigned to the new node.
  *
  * Return: A new node or NULL if fails.
  */

@@ -7,7 +7,7 @@
  *
  * @value: value assigned to the new node
  *
- * Return: new node
+ * Return: new node.
  */
 
 binary_tree_t *binary_tree_insert_right(binary_tree_t *parent, int value)
