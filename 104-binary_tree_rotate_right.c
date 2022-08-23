@@ -1,6 +1,6 @@
 #include "binary_trees.h"
 /**
- * binary_tree_rotate_right - rotate right
+ * binary_tree_rotate_right - rotate right.
  * @tree: tree
  * Return: 0 in false 1 in true
  */
