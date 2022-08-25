@@ -77,4 +77,4 @@ Our code should use the **Betty** style, and it will be checked using:
 [betty-doc.pl](https://github.com/holbertonschool/Betty/blob/master/betty-doc.pl "betty-doc.pl")
 
 # Authors
-[Shalom Muraguri](https://www.linkedin.com/in/shalom_M/)
+[Shalom Muraguri]
